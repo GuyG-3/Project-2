@@ -1,1 +1,2 @@
-# Project-2
+# Inheritence
+Project2, java, beit berl, 2025
